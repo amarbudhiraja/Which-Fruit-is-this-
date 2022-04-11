@@ -7,4 +7,5 @@ AIM OF THE PROJECT: This model will take a fruit image as input and predict "Whi
 
 --> The python code is in the file named "code.py".
 -->The results of the model (accuracy, loss,F1-SCORE etc.) are in the file named "output.txt".
---> The training and testing datasets(attached) were taken from the KAGGLE website.
+--> The training and testing datasets were taken from the KAGGLE website. As these datasets are very large, so, I am providing a google drive link to them:
+    https://drive.google.com/file/d/1U42OpHsNZekg_V_nkxo-SUgx0dARs6eo/view?usp=sharing
